@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: EstateAgency
-Template URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Aesthetics
+Template URL: https://abezam.com.com/portfolio/
+Author: abezam.com
+License: https://abezam.com/license/
